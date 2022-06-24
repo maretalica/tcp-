@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\maret\source\repos\server\server\Source.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\maret\source\repos\server\server\Source.cpp(101,2): warning C4551: function call missing argument list
+  server.vcxproj -> C:\Users\maret\source\repos\server\Debug\server.exe
